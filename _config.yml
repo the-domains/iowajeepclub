@@ -1,0 +1,29 @@
+name: IowaJeepClub
+favicon: null
+layout_spectrum: 0.07612607371993363
+typography_spectrum: 0.8546433849260211
+title: Iowa Jeep Club
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6663779448717833
+  lightness: 0.7547491025179625
+  saturation: 0.6500217351131141
+  rhythmicContrast: 0.8277370329014957
+purpose: []
